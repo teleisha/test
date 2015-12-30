@@ -2,3 +2,4 @@ hello!
 hello too!
 #1
 i change this file--"hello"
+#我知道到怎么用了，我很喜欢这个应用
